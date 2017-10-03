@@ -1,0 +1,12 @@
+body {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.container {
+	width:  auto;
+	margin: 0;
+}
+
+h1 {
+	font-size: 36px;
+}
